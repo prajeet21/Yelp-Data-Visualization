@@ -10,7 +10,7 @@ Final Project - Yelp Dataset Visualization
 * Smarita Sharma - sshar173@asu.edu
 * Vishal Dodiya - vmdodiya@asu.edu
 
-In this project, we visualized restaurants data in Phoenix. We want to provide a better user experience for selecting restaurants, recommending them cuisine/ category which matches closely with the selected one. Show user related details for a restaurant and a bubble chart for depicting the category/ cuisines present in the region.
+In this project, we have created an interactive dashboard of restaurants data from Yelp dataset. We want to provide a better user experience for selecting restaurants, recommending them cuisine/category which matches closely with the selected one. Show user related details for a restaurant and a bubble chart of category/cuisines in the region.
 
 ### Map functions
 ![map](img/Phx_map.png)
