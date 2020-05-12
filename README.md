@@ -1,7 +1,7 @@
 Final Project - Yelp Dataset Visualization  
 ===
 
-[Demo Link]( https://vishaldodiya.github.io/dv-project/)
+[Demo Link]( https://prajeet21.github.io/Yelp-Data-Visualization/)
 
 ### Team Members
 * Akshay Shah - cshah4@asu.edu
